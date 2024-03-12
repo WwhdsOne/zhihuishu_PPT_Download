@@ -2,12 +2,13 @@
 // @name         智慧树PPT下载
 // @namespace    http://tampermonkey.net/
 // @version      0.1.0
-// @description  try to take over the world!
 // @author       Wwhds
+// @description  智慧树下载脚本,希望能帮到大家
 // @match        https://hike-doc-online-h5.zhihuishu.com/alweb.html?*
 // @icon         https://wwhds-markdown-image.oss-cn-beijing.aliyuncs.com/Markdown%E4%BD%BF%E7%94%A8/w.jpg
 // @grant        none
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery/1.10.1/jquery.min.js
+// @license      MIT
 // @run-at       document-end
 // ==/UserScript==
 
